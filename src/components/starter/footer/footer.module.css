@@ -9,3 +9,7 @@
 .spacer {
   padding: 0 15px;
 }
+
+.date {
+  text-transform: capitalize;
+}
